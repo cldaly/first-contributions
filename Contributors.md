@@ -7583,6 +7583,7 @@ Bailey Wong
 - [Arturo Gamboa Rodriguez](https://github.com/arturogamrod)
 - [Fran Mowinckel](https://github.com/franmowinckel)
 - [Corey Mitchell](https://github.com/reemitch)
+- [Clay Daly](https://github.com/cldaly)
 - [Ryan Sy](https://github.com/ryansy)
 - [Maksym Kosenko](https://github.com/maxie7)
 - [Bill Oniszko](https://github.com/boniszko)
